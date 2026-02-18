@@ -114,6 +114,10 @@ I followed a structured 3-phase statistical lifecycle to find patterns within a 
 
 ---
 
+## 🎓 Project Credits
+This analysis was developed as part of the **Applied Statistics for Data Analytics** course by **DeepLearning.AI** on Coursera. It demonstrates proficiency in applying statistical models to solve business-oriented problems in the media and entertainment domain.
+---
+
 ## 👤 About the Author
 **Ayushi Gajendra** 
 
