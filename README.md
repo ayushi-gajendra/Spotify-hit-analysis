@@ -157,4 +157,4 @@ This analysis was developed as part of the **Applied Statistics for Data Analyti
 ---
 
 ### 🔗 Connect with me:
-[LinkedIn]((https://www.linkedin.com/in/ayushi-gajendra/))
+[LinkedIn](https://www.linkedin.com/in/ayushi-gajendra/)
