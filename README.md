@@ -1,3 +1,7 @@
+### Part 1: Descriptive Statistics (The "What" - summarizing what is in the data)
+
+---
+
 # 🎧 The DNA of a Hit: Strategic Audio Analysis for Playlist Curation
 
 ### A Statistical Deep Dive into Spotify's Top-Streamed Tracks
