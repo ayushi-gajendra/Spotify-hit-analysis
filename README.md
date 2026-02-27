@@ -1,22 +1,36 @@
-### Part 1: Descriptive Statistics (The "What" - summarizing what is in the data)
-
----
-
 # 🎧 The DNA of a Hit: Strategic Audio Analysis for Playlist Curation
 
-### A Statistical Deep Dive into Spotify's Top-Streamed Tracks
+### *Part 1: A Statistical Deep Dive into Spotify's Top-Streamed Tracks*
 
-![Data Analysis](https://img.shields.io/badge/Analysis-Descriptive%20Statistics-blue)
-![Business Intelligence](https://img.shields.io/badge/Domain-Media%20%26%20Entertainment-green)
-![Google Sheets](https://img.shields.io/badge/Tools-Google%20Sheets-success)
-![Excel](https://img.shields.io/badge/Tools-Microsoft%20Excel-orange)
+![Data Analysis](https://img.shields.io/badge/Analysis-Descriptive%20Statistics-blue?style=for-the-badge)
+![Business Intelligence](https://img.shields.io/badge/Domain-Media%20%26%20Entertainment-green?style=for-the-badge)
+![Google Sheets](https://img.shields.io/badge/Tools-Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 
 ---
 
-## 📖 Background & Business Case
+## 📚 The Spotify Data Science Trilogy
+
+This repository is the foundation of a three-part series analyzing the musical and mathematical laws of streaming success.
+
+1. **Part 1: Descriptive Statistics (This Repo)** - Summarizing the "DNA" of hit songs.
+2. [Part 2: Inferential Statistics](https://github.com/ayushi-gajendra/Spotify-hit-analysis_Inferential-Statistics) - Modeling track modality and predicting outcomes.
+3. [Part 3: Distribution Analysis](https://www.google.com/search?q=https://github.com/ayushi-gajendra/Spotify-hit-analysis_Distribution-analysis) - Validating the Empirical Rule and Normality.
+
+---
+
+## 📌 Project Overview
 In the hyper-competitive streaming era, music curators and labels can no longer rely solely on "gut feeling" to predict success. With thousands of tracks released daily, identifying the specific audio DNA that drives listener engagement is a critical business advantage.
 
 I conducted this analysis to move beyond subjective "vibe" checks. By analyzing the physical attributes of popular music—such as Energy, Acousticness, and Pitch—I’ve defined a "Hit Profile" that helps curators optimize track selection for maximum ROI and listener retention.
+
+---
+
+## 📂 Business Scenarios Modeled
+As a Product or Operations Analyst, descriptive statistics allow us to solve key industry challenges:
+
+* **Establishing Market Benchmarks:** Using central tendency (Mean/Median) to define what a "standard" hit looks like for Energy and Valence.
+* **Risk & Consistency Mapping:** Utilizing Standard Deviation to determine if a musical trend is a stable market requirement or a volatile outlier.
+* **Technical Optimization:** Applying Pearson Correlation ($r$) to prove how technical mastering (Loudness) directly impacts the perceived "Energy" of a track.
 
 ---
 
@@ -157,8 +171,5 @@ This analysis was developed as part of the **Applied Statistics for Data Analyti
 * **7+ Years** of experience in business operations, strategic growth, and entrepreneurial leadership.
 * I specialize in bridging the gap between raw data and **high-stakes business decisions**.
 * My goal is to help organizations move beyond "gut feeling" to drive growth through evidence-based strategy.
-
----
-
 ### 🔗 Connect with me:
 [LinkedIn](https://www.linkedin.com/in/ayushi-gajendra/)
